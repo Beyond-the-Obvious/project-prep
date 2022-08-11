@@ -1,7 +1,7 @@
 # Team Members # 
 - Saeed Kokash (TL)
-- Ali Mohammad
 - Omar Qattam 
+- Ali Mohammad
 - Bashar Al-Zrigat
 - Firas Yacoup
 - Bayan Al-Jawawdeh
