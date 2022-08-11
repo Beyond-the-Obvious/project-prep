@@ -1,11 +1,12 @@
 # Team Members # 
+- Saeed Kokash (TL)
 - Ali Mohammad
 - Omar Qattam 
 - Bashar Al-Zrigat
 - Firas Yacoup
 - Bayan Al-Jawawdeh
 - Shaima Al-Khateeb
-- Saeed Kokash (TL)
+
 
 # Cooperation Plan #
 
