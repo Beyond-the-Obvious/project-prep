@@ -35,6 +35,9 @@ our minimum viable product is that our App will be a place where anyone can shar
 
 When the user enters the aplication he will see a home page with the ability to browse product, if he wants to engage, he has to sign up and submit his informations which will be a request to the server and the server will handle the data and save it to the database, meanwhile, the user will have a profile page where he can edit his info and all of this will have the same data flow as before, then he will be able to add a new product which will use the Create method and send this data to the database through the server, then he can go to the homepage again and search(filter) to any item he wants, he will have the ability to add items to cart which will send the selected data to a unique database for the user and save the items in a special list for the user to review later. When the user is done, he can simply sign out.
 
+![data flow](https://user-images.githubusercontent.com/108029468/184166973-107100cc-697c-47e2-8b9f-029d454fbbc9.png)
+
+
 # Non-Functional Requirements #
 
 1. Security: our application will be secure for users as they will be verified and authenticated before logging in.
