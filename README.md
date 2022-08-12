@@ -26,3 +26,7 @@ https://trello.com/b/Sl0QVoah/handify-project
 
 
 ![7 Settings](https://user-images.githubusercontent.com/108029468/184314320-4ac44f1a-e2fa-44e4-91eb-dfdc7e1efec6.png)
+
+# Domain Modeling Diagram #
+
+![Domain Modeling Diagram](https://user-images.githubusercontent.com/108029468/184316526-570e6fb7-9177-4df2-92d6-0c7a69c59fce.png)
