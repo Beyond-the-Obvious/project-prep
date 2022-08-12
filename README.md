@@ -30,3 +30,38 @@ https://trello.com/b/Sl0QVoah/handify-project
 # Domain Modeling Diagram #
 
 ![Domain Modeling Diagram](https://user-images.githubusercontent.com/108029468/184316526-570e6fb7-9177-4df2-92d6-0c7a69c59fce.png)
+
+# Schema # 
+```
+{
+  "title": "Item registration form",
+  "description": "Please enter your Items details.",
+  "type": "object",
+  "required": [
+    "itemName",
+    "itemDescription",
+    "itemPrice",
+    "itemImgUrl"
+  ],
+  "properties": {
+    "itemName": {
+      "type": "string",
+      "title": "Name",
+      "default": ""
+    },
+    "itemDescription": {
+      "type": "string",
+      "title": "Description"
+    },
+    "itemPrice": {
+      "type": "number",
+      "title": "Price",
+      "minLength": 10
+    },
+    "itemImgUrl": {
+      "type": "string",
+      "title": "ImageUrl"
+    }
+  }
+}
+```
