@@ -65,3 +65,6 @@ https://trello.com/b/Sl0QVoah/handify-project
   }
 }
 ```
+
+![Schema Model Diagram](https://user-images.githubusercontent.com/108029468/184324689-2879e760-96ba-4b84-9cf7-cee342d83a5e.png)
+
