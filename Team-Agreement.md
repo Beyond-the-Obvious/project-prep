@@ -79,7 +79,7 @@ we will create a model plan for the whole projcet, then we will break it into sm
 Trello
 
 # Presentation Deck #
-[Presentaition Template](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31)
+[Presentation Link](https://docs.google.com/presentation/d/1cgw91gsm0qrtlszBNoNFHQpgezaBNBD4eTJ_-zvhq9k/edit?usp=sharing)
 
 
 # Schedule your practice session #
